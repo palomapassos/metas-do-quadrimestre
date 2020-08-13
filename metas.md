@@ -4,4 +4,4 @@
 
 * Ler um livro **completo** em inglês até o final do ano
 
-* Ter uma rotina de exercícios físicos e mentais
+* Ter uma *rotina* de exercícios físicos e mentais
